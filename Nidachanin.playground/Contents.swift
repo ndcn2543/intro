@@ -8,3 +8,6 @@ print("Hello")
 24/8
 28 % 10
 (28.0).truncatingRemainder(dividingBy: 10.0)
+sin(45 * Double.pi/180)
+
+
