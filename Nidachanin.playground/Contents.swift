@@ -29,4 +29,11 @@ var name = "Matt"
 message = name
 let oneThird = 1.0/3.0
 let oneThirdLongSreing = "One Thrid is \(oneThird) as a decimal"
+let coordinates: (Int,Int) = (2,3)
+let coordinates3D = (x: 1, y:2, z:3)
+
+
+
+
+
 
