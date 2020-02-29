@@ -20,6 +20,8 @@ var decimal: Double = 12.5
 interger = Int(decimal)
 let hourlyFlate: Double = 19.5
 let hourWorked: Int = 10
-
+let typeInferredint = 42
+let avgAge: Double = 23
+let avg = Double((Age + Age) / 2)
 
 
