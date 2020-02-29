@@ -31,6 +31,13 @@ let oneThird = 1.0/3.0
 let oneThirdLongSreing = "One Thrid is \(oneThird) as a decimal"
 let coordinates: (Int,Int) = (2,3)
 let coordinates3D = (x: 1, y:2, z:3)
+typealias Animal = String
+let yes: Bool = true
+let no: Bool = false
+let a = 5
+let b = 10
+let min = a < b ? a : b
+let max = a > b ? a : b
 
 
 
