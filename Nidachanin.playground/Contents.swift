@@ -10,4 +10,4 @@ print("Hello")
 (28.0).truncatingRemainder(dividingBy: 10.0)
 sin(45 * Double.pi/180)
 let number:Int = 10
-
+var variableNumber:Int = 42
