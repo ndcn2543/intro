@@ -27,5 +27,6 @@ let stringDog: String = "Dog"
 var message = "Hello"+"my name is"
 var name = "Matt"
 message = name
-
+let oneThird = 1.0/3.0
+let oneThirdLongSreing = "One Thrid is \(oneThird) as a decimal"
 
