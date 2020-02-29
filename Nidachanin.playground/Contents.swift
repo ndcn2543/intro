@@ -21,7 +21,11 @@ interger = Int(decimal)
 let hourlyFlate: Double = 19.5
 let hourWorked: Int = 10
 let typeInferredint = 42
-let avgAge: Double = 23
-let avg = Double((Age + Age) / 2)
+let avgAge1: Double = 23
+let avgAge2: Int = 50
+let stringDog: String = "Dog"
+var message = "Hello"+"my name is"
+var name = "Matt"
+message = name
 
 
