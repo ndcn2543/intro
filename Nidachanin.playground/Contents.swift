@@ -38,6 +38,11 @@ let a = 5
 let b = 10
 let min = a < b ? a : b
 let max = a > b ? a : b
+var sum = 1
+
+while sum < 1000 {
+sum = sum + ( sum + 1)
+}
 
 
 
