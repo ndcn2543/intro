@@ -18,3 +18,8 @@ print("testNumber % 2")
 var interger: Int = 100
 var decimal: Double = 12.5
 interger = Int(decimal)
+let hourlyFlate: Double = 19.5
+let hourWorked: Int = 10
+
+
+
