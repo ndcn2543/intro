@@ -11,3 +11,7 @@ print("Hello")
 sin(45 * Double.pi/180)
 let number:Int = 10
 var variableNumber:Int = 42
+var counter: Int = 0
+let testNumber:Int = 45
+let evenodd = testNumber % 2
+print("evenodd")
