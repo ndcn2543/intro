@@ -43,7 +43,14 @@ print("evennumber")
 
 // Mark: - Assignment 3
 
-    
+
+
+
+
+
+  
+
+// Mark: - Assignment 4
 
 
 
@@ -54,9 +61,43 @@ print("evennumber")
 
 
 
+// Mark: - Assignment 5
 
-    
 
+
+
+
+
+
+// Mark: - Assignment 6
+
+let score1 = 80
+
+switch score1 {
+case 0...50:
+    print("Grade F")
+case 50...54:
+    print("Grade D")
+case 55...59:
+    print("Grade D+")
+case 60...64:
+    print("Grade C")
+case 65...69:
+    print("Grade C+")
+case 70...74:
+    print("Grade B")
+case 75...79:
+    print("Grade B+")
+case 80...100:
+    print("Grade A")
+case 100...:
+    print("Error, Score ins't correction")
+default:
+    print("score")
+}
+
+
+// Mark: - Assignment 7
 
  
 
