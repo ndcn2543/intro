@@ -71,7 +71,7 @@ print("evennumber")
 
 // Mark: - Assignment 6
 
-let score1 = 80
+let score1 = 120
 
 switch score1 {
 case 0...50:
