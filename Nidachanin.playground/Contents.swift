@@ -14,17 +14,16 @@ print(Summary,Different,Mutiply,Divide)
 // Mark: - Assignment 1
 
 let Currency = 5346
-
-
-    
-
-
-
-
-
-
-
-
+let Bank1 = 5346 / 1000
+let Bank2 = 346 / 500
+let Bank3 = 346 / 100
+let Bank4 = 46 / 50
+let Bank5 = 46 / 20
+let Coin1 = 6 / 10
+let Coin2 = 6 / 5
+let Coin3 = 1 / 2
+let Coin4 = 1 / 1
+print(Bank1,Bank2,Bank3,Bank4,Bank5,Coin1,Coin2,Coin3,Coin4)
 
 // Mark: - Assignment 2
 
