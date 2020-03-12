@@ -25,6 +25,7 @@ let Coin3 = 1 / 2
 let Coin4 = 1 / 1
 print(Bank1,Bank2,Bank3,Bank4,Bank5,Coin1,Coin2,Coin3,Coin4)
 
+
 // Mark: - Assignment 2
 
 let number = 2
@@ -47,20 +48,22 @@ print("evennumber")
 
 
 
+
   
 
 // Mark: - Assignment 4
 
-
-
-
-
-
-
-
-
+var sum = 0
+while sum < 100{
+    sum = sum + 1
+    if sum >= 101{
+    break
+    }
+    print(sum)
+}
 
 // Mark: - Assignment 5
+
 
 
 
